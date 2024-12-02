@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Workout-plan/static/css/main.e381db74.css",
+    "main.js": "/Workout-plan/static/js/main.f479c1b0.js",
+    "static/media/pexels-shotpot-4046704.jpg": "/Workout-plan/static/media/pexels-shotpot-4046704.518f81ae4ba00ef03bbc.jpg",
+    "index.html": "/Workout-plan/index.html",
+    "main.e381db74.css.map": "/Workout-plan/static/css/main.e381db74.css.map",
+    "main.f479c1b0.js.map": "/Workout-plan/static/js/main.f479c1b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e381db74.css",
+    "static/js/main.f479c1b0.js"
+  ]
+}
